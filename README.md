@@ -1,5 +1,9 @@
 # Password-Generator
 
+# Description
+This is a website I created for anyone to use so that they can generate or recieve a random password eaily. I also added a few qestions so that they could customize to however they would like their password to be.
+
+
 # User Story
 AS AN employee with access to sensitive data
 I WANT to randomly generate a password that meets certain criteria
@@ -22,3 +26,7 @@ WHEN all prompts are answered
 THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
+
+# Screenshot 
+
+<img src="Screenshot_6.png">
